@@ -1,3 +1,11 @@
+# Tower of Honai
+Tower of Honai is a simple mathmatical game or puzzle. The aim of this game is to place all four disks from pole-1 to pole-2 and all disks have to place in order, the smallest one on the top and the biggest one on bottom.
+
+# Live at
+http://dochyper.unitec.ac.nz/UnitecAnimalUnit/towerofhonai/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
